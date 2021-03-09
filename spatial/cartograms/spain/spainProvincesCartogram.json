@@ -1,0 +1,522 @@
+[
+  {
+    province: 'A Coruña',
+    province_ine: 'Coruña, A',
+    province_ine_id: '15',
+    province_postal: '',
+    province_short: '',
+    region: 'Galicia',
+    row: 0,
+    column: 0
+  },
+  {
+    province: 'Lugo',
+    province_ine: 'Lugo',
+    province_ine_id: '27',
+    province_postal: '',
+    province_short: '',
+    region: 'Galicia',
+    row: 0,
+    column: 1
+  },
+  {
+    province: 'Asturias',
+    province_ine: 'Asturias',
+    province_ine_id: '33',
+    province_postal: '',
+    province_short: '',
+    region: 'Asturias',
+    row: 0,
+    column: 2
+  },
+  {
+    province: 'Cantabria',
+    province_ine: 'Cantabria',
+    province_ine_id: '39',
+    province_postal: '',
+    province_short: '',
+    region: 'Cantabria',
+    row: 0,
+    column: 3
+  },
+  {
+    province: 'Vizcaya',
+    province_ine: 'Bizkaia',
+    province_ine_id: '48',
+    province_postal: '',
+    province_short: '',
+    region: 'País Vasco',
+    row: 0,
+    column: 4
+  },
+  {
+    province: 'Guipuzcoa',
+    province_ine: 'Gipuzkoa',
+    province_ine_id: '20',
+    province_postal: '',
+    province_short: '',
+    region: 'País Vasco',
+    row: 0,
+    column: 5
+  },
+  {
+    province: 'Navarra',
+    province_ine: 'Navarra',
+    province_ine_id: '31',
+    province_postal: '',
+    province_short: '',
+    region: 'Navarra',
+    row: 0,
+    column: 6
+  },
+  {
+    province: 'Huesca',
+    province_ine: 'Huesca',
+    province_ine_id: '22',
+    province_postal: '',
+    province_short: '',
+    region: 'Aragón',
+    row: 0,
+    column: 7
+  },
+  {
+    province: 'Lleida',
+    province_ine: 'Lleida',
+    province_ine_id: '25',
+    province_postal: '',
+    province_short: '',
+    region: 'Cataluña',
+    row: 0,
+    column: 8
+  },
+  {
+    province: 'Girona',
+    province_ine: 'Girona',
+    province_ine_id: '17',
+    province_postal: '',
+    province_short: '',
+    region: 'Cataluña',
+    row: 0,
+    column: 9
+  },
+  {
+    province: 'Pontevedra',
+    province_ine: 'Pontevedra',
+    province_ine_id: '36',
+    province_postal: '',
+    province_short: '',
+    region: 'Galicia',
+    row: 1,
+    column: 0
+  },
+  {
+    province: 'Ourense',
+    province_ine: 'Ourense',
+    province_ine_id: '32',
+    province_postal: '',
+    province_short: '',
+    region: 'Galicia',
+    row: 1,
+    column: 1
+  },
+  {
+    province: 'León',
+    province_ine: 'León',
+    province_ine_id: '24',
+    province_postal: 'LE',
+    province_short: '',
+    region: 'Castilla y León',
+    row: 1,
+    column: 2
+  },
+  {
+    province: 'Palencia',
+    province_ine: 'Palencia',
+    province_ine_id: '34',
+    province_postal: '',
+    province_short: '',
+    region: 'Castilla y León',
+    row: 1,
+    column: 3
+  },
+  {
+    province: 'Burgos',
+    province_ine: 'Burgos',
+    province_ine_id: '09',
+    province_postal: 'BU',
+    province_short: '',
+    region: 'Castilla y León',
+    row: 1,
+    column: 4
+  },
+  {
+    province: 'Álava',
+    province_ine: 'Araba/Álava',
+    province_ine_id: '01',
+    province_postal: '',
+    province_short: '',
+    region: 'País Vasco',
+    row: 1,
+    column: 5
+  },
+  {
+    province: 'La Rioja',
+    province_ine: 'Rioja, La',
+    province_ine_id: '26',
+    province_postal: '',
+    province_short: '',
+    region: 'La Rioja',
+    row: 1,
+    column: 6
+  },
+  {
+    province: 'Zaragoza',
+    province_ine: 'Zaragoza',
+    province_ine_id: '50',
+    province_postal: '',
+    province_short: '',
+    region: 'Aragón',
+    row: 1,
+    column: 7
+  },
+  {
+    province: 'Barcelona',
+    province_ine: 'Barcelona',
+    province_ine_id: '08',
+    province_postal: '',
+    province_short: '',
+    region: 'Cataluña',
+    row: 1,
+    column: 8
+  },
+  {
+    province: 'Zamora',
+    province_ine: 'Zamora',
+    province_ine_id: '49',
+    province_postal: '',
+    province_short: '',
+    region: 'Castilla y León',
+    row: 2,
+    column: 3
+  },
+  {
+    province: 'Valladolid',
+    province_ine: 'Valladolid',
+    province_ine_id: '47',
+    province_postal: '',
+    province_short: '',
+    region: 'Castilla y León',
+    row: 2,
+    column: 4
+  },
+  {
+    province: 'Segovia',
+    province_ine: 'Segovia',
+    province_ine_id: '40',
+    province_postal: '',
+    province_short: '',
+    region: 'Castilla y León',
+    row: 2,
+    column: 5
+  },
+  {
+    province: 'Soria',
+    province_ine: 'Soria',
+    province_ine_id: '42',
+    province_postal: '',
+    province_short: '',
+    region: 'Castilla y León',
+    row: 2,
+    column: 6
+  },
+  {
+    province: 'Teruel',
+    province_ine: 'Teruel',
+    province_ine_id: '44',
+    province_postal: '',
+    province_short: '',
+    region: 'Aragón',
+    row: 2,
+    column: 7
+  },
+  {
+    province: 'Tarragona',
+    province_ine: 'Tarragona',
+    province_ine_id: '43',
+    province_postal: '',
+    province_short: '',
+    region: 'Cataluña',
+    row: 2,
+    column: 8
+  },
+  {
+    province: 'Salamanca',
+    province_ine: 'Salamanca',
+    province_ine_id: '37',
+    province_postal: 'SA',
+    province_short: '',
+    region: 'Castilla y León',
+    row: 3,
+    column: 3
+  },
+  {
+    province: 'Ávila',
+    province_ine: 'Ávila',
+    province_ine_id: '05',
+    province_postal: '',
+    province_short: '',
+    region: 'Castilla y León',
+    row: 3,
+    column: 4
+  },
+  {
+    province: 'Madrid',
+    province_ine: 'Madrid',
+    province_ine_id: '28',
+    province_postal: '',
+    province_short: '',
+    region: 'Madrid',
+    row: 3,
+    column: 5
+  },
+  {
+    province: 'Guadalajara',
+    province_ine: 'Guadalajara',
+    province_ine_id: '19',
+    province_postal: 'Guadalajara',
+    province_short: '',
+    region: 'Castilla-La Mancha',
+    row: 3,
+    column: 6
+  },
+  {
+    province: 'Castellón',
+    province_ine: 'Castellón/Castelló',
+    province_ine_id: '12',
+    province_postal: '',
+    province_short: '',
+    region: 'Comunidad Valenciana',
+    row: 3,
+    column: 7
+  },
+  {
+    province: 'Cáceres',
+    province_ine: 'Cáceres',
+    province_ine_id: '10',
+    province_postal: '',
+    province_short: '',
+    region: 'Extremadura',
+    row: 4,
+    column: 4
+  },
+  {
+    province: 'Toledo',
+    province_ine: 'Toledo',
+    province_ine_id: '45',
+    province_postal: '',
+    province_short: '',
+    region: 'Castilla-La Mancha',
+    row: 4,
+    column: 5
+  },
+  {
+    province: 'Cuenca',
+    province_ine: 'Cuenca',
+    province_ine_id: '16',
+    province_postal: '',
+    province_short: '',
+    region: 'Castilla-La Mancha',
+    row: 4,
+    column: 6
+  },
+  {
+    province: 'Valencia',
+    province_ine: 'Valencia/València',
+    province_ine_id: '46',
+    province_postal: '',
+    province_short: '',
+    region: 'Comunidad Valenciana',
+    row: 4,
+    column: 7
+  },
+  {
+    province: 'Baleares',
+    province_ine: 'Balears, Illes',
+    province_ine_id: '07',
+    province_postal: '',
+    province_short: '',
+    region: 'Baleares',
+    row: 4,
+    column: 9
+  },
+  {
+    province: 'Badajoz',
+    province_ine: 'Badajoz',
+    province_ine_id: '06',
+    province_postal: '',
+    province_short: '',
+    region: 'Extremadura',
+    row: 5,
+    column: 4
+  },
+  {
+    province: 'Ciudad Real',
+    province_ine: 'Ciudad Real',
+    province_ine_id: '13',
+    province_postal: '',
+    province_short: '',
+    region: 'Castilla-La Mancha',
+    row: 5,
+    column: 5
+  },
+  {
+    province: 'Albacete',
+    province_ine: 'Albacete',
+    province_ine_id: '02',
+    province_postal: '',
+    province_short: '',
+    region: 'Castilla-La Mancha',
+    row: 5,
+    column: 6
+  },
+  {
+    province: 'Alicante',
+    province_ine: 'Alicante/Alacant',
+    province_ine_id: '03',
+    province_postal: '',
+    province_short: '',
+    region: 'Comunidad Valenciana',
+    row: 5,
+    column: 7
+  },
+  {
+    province: 'Huelva',
+    province_ine: 'Huelva',
+    province_ine_id: '21',
+    province_postal: '',
+    province_short: '',
+    region: 'Andalucía',
+    row: 6,
+    column: 3
+  },
+  {
+    province: 'Sevilla',
+    province_ine: 'Sevilla',
+    province_ine_id: '41',
+    province_postal: '',
+    province_short: '',
+    region: 'Andalucía',
+    row: 6,
+    column: 4
+  },
+  {
+    province: 'Córdoba',
+    province_ine: 'Córdoba',
+    province_ine_id: '14',
+    province_postal: '',
+    province_short: '',
+    region: 'Andalucía',
+    row: 6,
+    column: 5
+  },
+  {
+    province: 'Jaén',
+    province_ine: 'Jaén',
+    province_ine_id: '23',
+    province_postal: '',
+    province_short: '',
+    region: 'Andalucía',
+    row: 6,
+    column: 6
+  },
+  {
+    province: 'Murcia',
+    province_ine: 'Murcia',
+    province_ine_id: '30',
+    province_postal: '',
+    province_short: '',
+    region: 'Murcia',
+    row: 6,
+    column: 7
+  },
+  {
+    province: 'Tenerife',
+    province_ine: 'Santa Cruz de Tenerife',
+    province_ine_id: '38',
+    province_postal: '',
+    province_short: '',
+    region: 'Canarias',
+    row: 7,
+    column: 0
+  },
+  {
+    province: 'Las Palmas',
+    province_ine: 'Palmas, Las',
+    province_ine_id: '35',
+    province_postal: '',
+    province_short: '',
+    region: 'Canarias',
+    row: 7,
+    column: 1
+  },
+  {
+    province: 'Cádiz',
+    province_ine: 'Cádiz',
+    province_ine_id: '11',
+    province_postal: '',
+    province_short: '',
+    region: 'Andalucía',
+    row: 7,
+    column: 3
+  },
+  {
+    province: 'Málaga',
+    province_ine: 'Málaga',
+    province_ine_id: '29',
+    province_postal: '',
+    province_short: '',
+    region: 'Andalucía',
+    row: 7,
+    column: 4
+  },
+  {
+    province: 'Granada',
+    province_ine: 'Granada',
+    province_ine_id: '18',
+    province_postal: '',
+    province_short: '',
+    region: 'Andalucía',
+    row: 7,
+    column: 5
+  },
+  {
+    province: 'Almería',
+    province_ine: 'Almería',
+    province_ine_id: '04',
+    province_postal: '',
+    province_short: '',
+    region: 'Andalucía',
+    row: 7,
+    column: 6
+  },
+  {
+    province: 'Ceuta',
+    province_ine: 'Ceuta',
+    province_ine_id: '51',
+    province_postal: '',
+    province_short: '',
+    region: 'Ceuta',
+    row: 9,
+    column: 3
+  },
+  {
+    province: 'Melilla',
+    province_ine: 'Melilla',
+    province_ine_id: '52',
+    province_postal: '',
+    province_short: '',
+    region: 'Melilla',
+    row: 9,
+    column: 5
+  }
+]
