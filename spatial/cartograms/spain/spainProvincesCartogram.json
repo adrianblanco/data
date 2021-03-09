@@ -1,4 +1,4 @@
-  {
+[{
     province: 'A Coruña',
     province_ine: 'Coruña, A',
     province_ine_id: '15',
@@ -517,4 +517,4 @@
     region: 'Melilla',
     row: 9,
     column: 5
-  }
+}]
